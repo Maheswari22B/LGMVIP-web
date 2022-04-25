@@ -1,3 +1,29 @@
+
+
+
+
+LGMVIP-Task 1:
+
+-> BEGINNER LEVEL TASK-Create a todo list webapp
+
+   MY COMPLETED TASK -
+
+
+LGMVIP-Task 2: 
+
+-> BEGINNER LEVEL-Create a web application using create-react-app(User card grid layout)
+
+   MY COMPLETED TASK - https://maheswari22b.github.io/task2/
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
