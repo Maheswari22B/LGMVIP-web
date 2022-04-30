@@ -13,7 +13,7 @@ LGMVIP-Task 2:
 
 -> BEGINNER LEVEL-Create a web application using create-react-app(User card grid layout)
 
-   MY COMPLETED TASK - https://maheswari22b.github.io/task2/
+   MY COMPLETED TASK -https://user-images.githubusercontent.com/91408866/166112479-767fabbb-c9f5-4d2c-905f-4743ab54bc0a.mp4
 
 
 
