@@ -7,6 +7,8 @@ LGMVIP-Task 1:
 -> BEGINNER LEVEL TASK-Create a todo list webapp
 
 
+https://user-images.githubusercontent.com/91408866/166113367-d793cf77-2c99-45b4-b050-0f5e66c9d806.mp4
+
 
 
 LGMVIP-Task 2: 
@@ -14,18 +16,7 @@ LGMVIP-Task 2:
 -> BEGINNER LEVEL-Create a web application using create-react-app(User card grid layout)
 
 
-
-
-
-
 https://user-images.githubusercontent.com/91408866/166113002-d1355f06-69b2-4fe7-9280-0aecaa5ae8a8.mp4
-
-
-
-
-
-
-
 
 
 
