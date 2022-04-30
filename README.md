@@ -13,7 +13,6 @@ LGMVIP-Task 1:
 
 
 
-https://user-images.githubusercontent.com/91408866/166114396-88f2a080-1197-4a4b-8db2-e0eea723eeef.mp4
 
 
 
@@ -31,7 +30,7 @@ LGMVIP-Task 2:
 -> BEGINNER LEVEL-Create a web application using create-react-app(User card grid layout)
 
 
-https://user-images.githubusercontent.com/91408866/166113002-d1355f06-69b2-4fe7-9280-0aecaa5ae8a8.mp4
+
 
 
 
