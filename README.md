@@ -6,14 +6,14 @@ LGMVIP-Task 1:
 
 -> BEGINNER LEVEL TASK-Create a todo list webapp
 
-   MY COMPLETED TASK -
+
 
 
 LGMVIP-Task 2: 
 
 -> BEGINNER LEVEL-Create a web application using create-react-app(User card grid layout)
 
-   MY COMPLETED TASK -
+
 
 
 
